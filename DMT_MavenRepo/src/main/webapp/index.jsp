@@ -121,7 +121,7 @@
 		<td class="style18" style="height: 78px;" colspan="2">
 <span dir="ltr">
 <input type="submit" value="Submit" name="submit_msg" tabindex="5" id="fa3" style="float:center; width: 114px; height: 35px;" ><br></span>
-		<br class="style19"><font face="Tahoma"><a target="_blank" href="http://www.Datamato.com"><span style="font-size: 8pt; text-decoration: none">our web site</span></a></font>
+		<br class="style19"><font face="Tahoma"><a target="_blank" href="http://www.Datamato.com"><span style="font-size: 8pt; text-decoration: none">visit our web site</span></a></font>
 </td>
 	</tr>
 </table>
