@@ -127,7 +127,7 @@
 </table>
 </form>
 
-<span style="font-family:tahoma;"><a target="_blank" href="http://www.microsoft.com"><span style="font-size: 8pt; text-decoration: none">Parent organization </span></a></span>
+<span style="font-family:tahoma;"><a target="_blank" href="http://www.micro.com"><span style="font-size: 8pt; text-decoration: none">Parent organization </span></a></span>
 
 </body>
 </html>
